@@ -1,0 +1,15 @@
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\bin\Debug\mtapi5test.exe.config
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\bin\Debug\mtapi5test.exe.manifest
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\bin\Debug\mtapi5test.application
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\bin\Debug\mtapi5test.exe
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\bin\Debug\mtapi5test.pdb
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\bin\Debug\MtApi5.dll
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.csprojResolveAssemblyReference.cache
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.Form1.resources
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.Properties.Resources.resources
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.csproj.GenerateResource.Cache
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.exe.manifest
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.application
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.exe
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\mtapi5test.pdb
+D:\DV\DataProcessing\AlgoTrading\OrderExecuter\mtapi5test\obj\x86\Debug\trader.Properties.Resources.resources
